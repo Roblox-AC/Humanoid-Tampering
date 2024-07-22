@@ -24,7 +24,7 @@ local Constants = {
     ["MaxSlopeAngle"] = 89,
     ["NameDisplayDistance"] = 100,
     ["NameOcclusion"] = Enum.NameOcclusion.OccludeAll,
-    ["WalkSpeed"] = 16 or 32,
+    ["WalkSpeed"] = 16,
   }
 }
 
