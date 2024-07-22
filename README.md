@@ -1,11 +1,9 @@
 ### Introduction! 👋
-
 Group of **Local** files useful for measuring `Humanoid` information, and protecting against client modifications.
 
 ---
 
 ### Humanoid Tampering 👁️
-
 Basic service for crashing Roblox **as soon as** modifications occur.
 
 **Protected Properties**:
@@ -27,5 +25,4 @@ Basic service for crashing Roblox **as soon as** modifications occur.
 ---
 
 ### Purpose ❤️
-
 Just to learn more for Anti Cheats and how they function.
